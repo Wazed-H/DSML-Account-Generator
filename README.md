@@ -16,3 +16,4 @@ Generates DSM-London Accounts
 **Notes:**
 -
 - I am not in any way responsible for anything you do with the script
+- Working as of July 2017
